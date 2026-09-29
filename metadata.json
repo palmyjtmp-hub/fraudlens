@@ -1,0 +1,6 @@
+{
+  "name": "FraudLens",
+  "description": "Global Digital Trust & Scam Detection Platform to assess suspicious links, QR codes, and screenshots with transparent risk explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
